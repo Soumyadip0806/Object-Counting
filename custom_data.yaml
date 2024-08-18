@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/custom_data/train/images
+val: /content/drive/MyDrive/custom_data/valid/images
+test: /content/drive/MyDrive/custom_data/test/images
+
+nc: 10
+names: ['Car','Bike','Pedestrian','3 wheelers','SGV','MGV','HGV','Trailer','Bus','Bicycle']
